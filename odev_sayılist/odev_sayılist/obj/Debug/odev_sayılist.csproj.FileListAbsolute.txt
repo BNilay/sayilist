@@ -1,0 +1,10 @@
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\odev_sayılist\odev_sayılist\bin\Debug\odev_sayılist.exe.config
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\odev_sayılist\odev_sayılist\bin\Debug\odev_sayılist.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\odev_sayılist\odev_sayılist\bin\Debug\odev_sayılist.pdb
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\odev_sayılist\odev_sayılist\obj\Debug\odev_sayılist.csproj.AssemblyReference.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\odev_sayılist\odev_sayılist\obj\Debug\odev_sayılist.Form1.resources
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\odev_sayılist\odev_sayılist\obj\Debug\odev_sayılist.Properties.Resources.resources
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\odev_sayılist\odev_sayılist\obj\Debug\odev_sayılist.csproj.GenerateResource.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\odev_sayılist\odev_sayılist\obj\Debug\odev_sayılist.csproj.CoreCompileInputs.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\odev_sayılist\odev_sayılist\obj\Debug\odev_sayılist.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\odev_sayılist\odev_sayılist\obj\Debug\odev_sayılist.pdb
